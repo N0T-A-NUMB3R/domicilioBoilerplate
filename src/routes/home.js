@@ -81,10 +81,10 @@ export default class Home extends Component {
 					}
 				</div>
 				<div class="text-center w-full">
-					<p class="mb-5">
-						Developed with ❤️ by Fabio Nan - (forked from <a class="text-orange-500" href={process.env.PREACT_APP_DEV_LINK}>{process.env.PREACT_APP_DEV_NAME}</a>)						
-					</p>
+					<p class="mb-5">Developed with ❤️ by Fabio Nan</p>
+					<p class="mb-5">(forked from tomma5o) 👊 </p>
 				</div>
+				
 			</Fragment>
 		);
 	}
